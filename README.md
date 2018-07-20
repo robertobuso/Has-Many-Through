@@ -16,3 +16,34 @@ Here are some potential models you might use (The order of the models are random
 When creating the models, be sure to include rich instance variables, so you can do more with the models! For instance, a `doctor` model might have things like name, field (field of study), and cost while a `patient` model might have things like name, ailments and income. In doing this, you might want to write methods where a patient can find the doctors (s)he can afford and/or a doctor appropriate for his/her pain.
 
 There are no restrictions and no tests, so it's up to you to decide how to implement this!
+
+<!-- Person
+
+:name
+:age
+:gender
+
+* buy subscription
+* cancel subscription
+* list current subscriptions
+* list cancelled subscriptions
+
+
+Magazine
+
+:name
+:category
+:price
+
+
+Subscription
+
+* check if person already has an active subscription to that magazine
+
+
+
+:person
+:magazine
+:type (weekly, monthly, quarterly)
+:status (active, cancelled)
+-->
